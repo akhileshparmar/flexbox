@@ -2,7 +2,7 @@
 
 Your complete guide to learning Flexbox
 
-![Flex](Flexbox.png)
+![Flex](flexbox.png)
 
 View the website - [https://akhiparmar.github.io/flexbox](https://akhiparmar.github.io/flexbox)
 
